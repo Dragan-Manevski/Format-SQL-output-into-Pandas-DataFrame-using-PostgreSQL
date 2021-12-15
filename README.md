@@ -39,7 +39,7 @@
 - **free and open-source Relational Database Management System**
 - **started** at **Berkeley Computer Science Department, University of California** and **developed by PostgreSQL Global Development Group**
 - **supports** both **SQL (relational)** and **JSON (non-relational) querying**
-- **available for** the following **operating systems**: **Linux** (all recent distributions), *macOS (OS X)**, **Windows**, and **Solaris**
+- **available for** the following **operating systems**: **Linux** (all recent distributions), **macOS (OS X)**, **Windows**, and **Solaris**
 - used as a **primary database for** many **web applications** as well as **mobile and analytics applications**
 - **features**:
     - User-defined types
@@ -52,7 +52,7 @@
     - Asynchronous replication
 
 
-### --------------------------------------------------------------------------------------------------------
+### -----------------------------------------------------------------------------------------------------
 ### Table of Contents:
 1. File Descriptions
 2. Technologies Used
