@@ -36,7 +36,7 @@
     - **ALTER** - modifies existing database object
 
 ### PostgreSQL:
-- **free and open-source Relational Database Management System**
+- **free and open-source Relational Database Management System** (RDBMS)
 - **started** at **Berkeley Computer Science Department, University of California** and **developed by PostgreSQL Global Development Group**
 - **supports** both **SQL (relational)** and **JSON (non-relational) querying**
 - **available for** the following **operating systems**: **Linux** (all recent distributions), **macOS (OS X)**, **Windows**, and **Solaris**
@@ -78,7 +78,7 @@
 6. Show Columns in Table
     6.1 Format output into Pandas DataFrame
 7. Select (Read) Records
-7.1 Format output into Pandas DataFrame
+    7.1 Format output into Pandas DataFrame
 - SELECT DISTINCT statement
 - WHERE clause
 - COUNT function
