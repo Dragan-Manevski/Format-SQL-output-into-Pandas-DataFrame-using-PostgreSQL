@@ -3,7 +3,7 @@
 ### -----------------------------------------------------------------------------------------------------
 ### SQL:
 - stands for **Structured Query Language**
-- **standardized programming language for RDBMS** (Relational Database Management Systems)
+- **standardized programming language for Relational Database Management Systems** (RDBMS)
 - used **to**:
     - **access, communicate with and manage** databases
     - **store, manipulate and retrieve data** in databases
@@ -73,9 +73,27 @@
 2. Create connection to Database
 3. Execute SQL Query
 4. Read Query
-5. Select (Read) Records
-6. Format output into Pandas DataFrame
-7. Drop Database
+5. Show all Tables in Database
+    5.1 Format output into Pandas DataFrame
+6. Show Columns in Table
+    6.1 Format output into Pandas DataFrame
+7. Select (Read) Records
+7.1 Format output into Pandas DataFrame
+- SELECT DISTINCT statement
+- WHERE clause
+- COUNT function
+- ORDER BY clause
+- LIMIT clause
+- BETWEEN operator
+- IN operator
+- LIKE operator
+- GROUP BY clause
+- HAVING clause
+- AS command
+- INNER JOIN clause
+- FULL OUTER JOIN clause
+- LEFT OUTER JOIN clause
+- EXISTS operator
 
 #### 4. Executive Summary
 TBA
