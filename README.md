@@ -74,11 +74,11 @@
 3. Execute SQL Query
 4. Read Query
 5. Show all Tables in Database
-    5.1 Format output into Pandas DataFrame
+    5.1. Format SQL output into Pandas DataFrame
 6. Show Columns in Table
-    6.1 Format output into Pandas DataFrame
+    6.1. Format SQL output into Pandas DataFrame
 7. Select (Read) Records
-    7.1 Format output into Pandas DataFrame
+    7.1. Format SQL output into Pandas DataFrame
 - SELECT DISTINCT statement
 - WHERE clause
 - COUNT function
