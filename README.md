@@ -1,5 +1,5 @@
 ### -----------------------------------------------------------------------------------------------------
-# Format SQL output into Pandas DataFrame using PostgreSQL
+## Format SQL output into Pandas DataFrame using PostgreSQL
 ### -----------------------------------------------------------------------------------------------------
 ### SQL:
 - stands for **Structured Query Language**
